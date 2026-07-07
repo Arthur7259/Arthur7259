@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Arthur Masello
 
-<!--
-**Arthur7259/Arthur7259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building projects, improving my skills, and exploring different areas of software development.
 
-Here are some ideas to get you started:
+I have experience working with legacy code maintenance and I am currently expanding my knowledge by developing new projects and strengthening my skills in software engineering, clean code, and good development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+* C
+* C++
+* C#
+* .NET
+* Python
+* Git and GitHub
+
+## About Me
+
+I enjoy solving problems through technology and creating projects that combine learning with practical applications.
+
+My current focus is improving my backend development skills, building a solid portfolio, and continuously learning new concepts in software development.
+
+## Featured Projects
+
+Projects will be added as I continue developing and improving my portfolio.
+
+## Goals
+
+* Improve software architecture and design skills
+* Build practical and well-structured applications
+* Learn and apply industry best practices
+* Contribute to open-source projects in the future
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/arthur-masello-a633b120a
